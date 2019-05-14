@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Speculitation</string>
+    <string name="Start_game">Start game</string>
+    <string name="Settings">Settings</string>
+    <string name="Achievments">Achievments</string>
+    <string name="About">About</string>
+    <string name="number_too_big">The guessed number too big!</string>
+    <string name="number_too_small">The guessed number to small</string>
+    <string name="truns_left">Turns left: </string>
+    <string name="difficulty_label">Difficulty</string>
+    <string name="easy_label">Easy</string>
+    <string name="medium_label">Medium</string>
+    <string name="hard_label">Hard</string>
+    <!-- <string name="title_activity_main2">Main2Activity</string> -->
+
+</resources>
